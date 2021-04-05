@@ -15,15 +15,20 @@ to create table, use markdown table generator
 
 ### Criteria A: Planning
 
-Context of problem
+Context of problem:
 
-Client statement, what is your client already using, what do they NEED 
+The problem recieved was a general problem with person who do CAS in ISAK. Persons did not update their CAS Portfolio regularly so I decided to help up with situation through creating an app that inputs your reflections or just what you do into your website.
 
-proposed solution 
-what programs are you going to use, what language, generally what are you doing  
+Client statement, what is your client already using, what do they NEED?
+My client is Abdirahman and he was already using WIX but he asked if I could try and help him to find a more efficient way to input his information.
 
-justification for solution 
-why are you using your program, language, why that?? etc etc 
+Proposed Solution 
+What programs are you going to use, what language, generally what are you doing?
+I decided to use python and kivy because this is what I think is the most advantageous way for me seeing as though this is what we have been working on in class.
+
+Justification for solution 
+Why are you using your program, language, why that?? etc etc
+Kivy is just an easy way to create apps and it also helps a lot with the client having a high quality.
 
 ### Criteria B: Design 
 
